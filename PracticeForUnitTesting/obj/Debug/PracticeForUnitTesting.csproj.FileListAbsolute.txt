@@ -1,0 +1,9 @@
+C:\Programming\C# Programs\Personal\PracticeForUnitTesting\PracticeForUnitTesting\bin\Debug\PracticeForUnitTesting.exe.config
+C:\Programming\C# Programs\Personal\PracticeForUnitTesting\PracticeForUnitTesting\bin\Debug\PracticeForUnitTesting.exe
+C:\Programming\C# Programs\Personal\PracticeForUnitTesting\PracticeForUnitTesting\bin\Debug\PracticeForUnitTesting.pdb
+C:\Programming\C# Programs\Personal\PracticeForUnitTesting\PracticeForUnitTesting\obj\Debug\PracticeForUnitTesting.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\PracticeForUnitTesting\PracticeForUnitTesting\obj\Debug\PracticeForUnitTesting.exe
+C:\Programming\C# Programs\Personal\PracticeForUnitTesting\PracticeForUnitTesting\obj\Debug\PracticeForUnitTesting.pdb
+C:\Programming\Git_Stuff\PracticeForUnitTesting\PracticeForUnitTesting\bin\Debug\PracticeForUnitTesting.exe.config
+C:\Programming\Git_Stuff\PracticeForUnitTesting\PracticeForUnitTesting\obj\Debug\PracticeForUnitTesting.exe
+C:\Programming\Git_Stuff\PracticeForUnitTesting\PracticeForUnitTesting\obj\Debug\PracticeForUnitTesting.pdb
